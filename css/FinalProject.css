@@ -1,0 +1,26 @@
+.BlueButton{
+  background-color: deepskyblue;
+  border: 2px solid skyblue;
+  color: black;
+  padding: 5px;
+  font-family: "Helvetica", sans-serif;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 3px;
+}
+
+.NormalText{
+    color: red;
+    font-family: "Helvetica", sans-serif;
+    font-size: 30px;
+}
+
+.InstructionText{
+    color: deepskyblue;
+    font-family: "Helvetica", sans-serif;
+    font-size: 20px;
+}
